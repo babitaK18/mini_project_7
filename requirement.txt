@@ -1,6 +1,6 @@
 xgboost
 pandas
 numpy
-sklearn
+scikit-learn
 gradio
 joblib
